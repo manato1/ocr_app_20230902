@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:ocr_app_20230902/application/state/auth_provider.dart';
 //ll
+//gg
 class AuthButton extends ConsumerWidget {
   const AuthButton({
     super.key,
